@@ -1,0 +1,12 @@
+.form-control {
+    border-radius: 0;
+    border-color: #ccc;
+    border-width: 0 0 1px 0;
+    border-style: none none solid none;
+    box-shadow: none;
+}
+
+.from-control:focus {
+    box-shadow: 0 1px 5px -2px #033a68;
+    border-bottom: 1px solid #2196F3;
+}
